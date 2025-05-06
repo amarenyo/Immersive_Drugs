@@ -1,4 +1,4 @@
-package ch.amarenyo.immersivedrugmod;
+package ch.amarenyo.immersivedrugsmod;
 
 import com.mojang.logging.LogUtils;
 import net.minecraftforge.api.distmarker.Dist;
